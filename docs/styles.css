@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+}
+#heading-section
+{
+    background-color: #00a6e4;
+    height: 79vh;
+    font-weight: bolder;
+    color: white;
+}
+
+#top-section
+{
+    background-color: #02387b;
+    color: white;
+}
+
+.navbar
+{
+    height: 10vh;
+}
+
+.login-button
+{
+    color: #0070ba;
+    background-color: white;
+    border: 1px solid #0070ba;
+    width: 80px;
+    height: 35px;
+    border-radius: 25px;
+    font-size: 0.8em;
+    font-weight: bold;
+}
+
+.signup-button
+{
+    color: white;
+    background-color: #0070ba;
+    width: 80px;
+    height: 35px;
+    border: none;
+    border-radius: 25px;
+    font-size: 0.8em;
+    font-weight: bold;
+}
